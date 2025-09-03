@@ -2,16 +2,17 @@
 
 ## 👤 ABOUT ME
 
-![My Picture](https://link-to-your-image.jpg) <!-- Replace with actual image URL -->
 
-Hi! I'm **[Ram Javern B. Carlos]**, Im really willing to learn with all my heart!
+Hi! I'm **[Ram Javern B. Carlos]**, Im really willing to learn with all my heart! im 19 years old!
+
+<img src="1000008565.jpg" alt="image" width="200" height="200">
 
 ---
 
 ## 🎯 AREA OF INTEREST
 
-- Artificial Intelligence  
-- Game Development 
+- Programming 
+- Debugging 
 - Web and App Development   
 - Data Science  
 
@@ -19,7 +20,7 @@ Hi! I'm **[Ram Javern B. Carlos]**, Im really willing to learn with all my heart
 - C++
 - Python
 - HTML/CSS
-- JavaScript
+- Java
 
 ---
 
