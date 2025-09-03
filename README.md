@@ -5,7 +5,7 @@
 
 Hi! I'm **[Ram Javern B. Carlos]**, Im really willing to learn with all my heart! im 19 years old!
 
-<img src="1000008565.jpg" alt="image" width="200" height="200">
+<img src="494639882_1332976091124299_6247277633454291154_n.jpg" alt="image" width="200" height="200">
 
 ---
 
