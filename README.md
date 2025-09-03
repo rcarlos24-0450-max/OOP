@@ -32,6 +32,8 @@ Hi! I'm **[Ram Javern B. Carlos]**, Im really willing to learn with all my heart
 - I love Programming
 
 ---
+## CONTACTS
+- 09659655425
 
 ## 📱 CONTACTS
 
